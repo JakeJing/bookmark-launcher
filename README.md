@@ -1,6 +1,6 @@
 # bookmark-launcher
 
-Create a simple java script embedded in the chrome to open certain websites with pre-defined shortcuts.
+Create a simple java script embedded in the google chrome to open certain websites with pre-defined shortcuts.
 
 1. install the extension of **ShortKeys**, which can define certain shortcuts to run a java script;
 
