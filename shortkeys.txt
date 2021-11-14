@@ -1,0 +1,110 @@
+[
+  {
+    "label": "git",
+    "key": "ctrl+i",
+    "action": "javascript",
+    "code": "function myFunction() {\n  window.open(\"https://github.com/JakeJing\");\n}\nmyFunction();",
+    "activeInInputs": true,
+    "blacklist": false,
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "label": "youtube",
+    "key": "ctrl+u",
+    "action": "javascript",
+    "code": "function myFunction() {\n  window.open(\"https://www.youtube.com/\");\n}\nmyFunction();",
+    "activeInInputs": true,
+    "blacklist": false,
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "label": "mediumview",
+    "key": "ctrl+v",
+    "action": "javascript",
+    "code": "function myFunction() {\n  window.open(\"https://medium.com/me/stats\");\n}\nmyFunction();",
+    "activeInInputs": true,
+    "blacklist": false,
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "label": "gdrive",
+    "key": "ctrl+d",
+    "action": "javascript",
+    "code": "function myFunction() {\n  window.open(\"https://drive.google.com/drive/my-drive?lfhs=2\");\n}\nmyFunction();",
+    "activeInInputs": true,
+    "blacklist": false,
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "label": "switchdrive",
+    "key": "ctrl+s",
+    "action": "javascript",
+    "code": "function myFunction() {\n  window.open(\"https://drive.switch.ch/index.php/apps/files/?dir=/&fileid=1908612578\");\n}\nmyFunction();",
+    "blacklist": false,
+    "activeInInputs": true,
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "label": "myhomepage",
+    "key": "ctrl+h",
+    "action": "javascript",
+    "code": "function myFunction() {\n  window.open(\"https://jakejing.github.io/\");\n}\nmyFunction();",
+    "activeInInputs": true,
+    "blacklist": false,
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "label": "gcalendar",
+    "key": "ctrl+c",
+    "action": "javascript",
+    "code": "function myFunction() {\n  window.open(\"https://calendar.google.com/calendar/u/0/r?tab=wc&pli=1#main_7\");\n}\nmyFunction();",
+    "activeInInputs": true,
+    "blacklist": false,
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "ctrl+g",
+    "label": "gmail",
+    "action": "javascript",
+    "code": "function myFunction() {\n  window.open(\"https://mail.google.com/mail/u/0/#inbox\");\n}\nmyFunction();\n\n",
+    "activeInInputs": true,
+    "blacklist": false,
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "ctrl+o",
+    "label": "osf",
+    "action": "javascript",
+    "code": "function myFunction() {\n  window.open(\"https://osf.io/myprojects/\");\n}\nmyFunction();\n\n",
+    "activeInInputs": true,
+    "blacklist": false,
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  }
+]
