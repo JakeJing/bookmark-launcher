@@ -106,5 +106,29 @@
     "sitesArray": [
       ""
     ]
+  },
+  {
+    "key": "ctrl+t",
+    "label": "todo list",
+    "action": "javascript",
+    "code": "function myFunction() {\n  window.open(\"http://127.0.0.1:1213/\");\n}\nmyFunction();\n",
+    "activeInInputs": true,
+    "blacklist": false,
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "ctrl+a",
+    "label": "editor",
+    "action": "javascript",
+    "code": "function myFunction() {\n  window.open(\"http://127.0.0.1:1111/\");\n}\nmyFunction();",
+    "activeInInputs": true,
+    "blacklist": false,
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
   }
 ]
