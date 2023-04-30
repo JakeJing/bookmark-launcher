@@ -1,9 +1,21 @@
 [
   {
+    "sites": "",
+    "sitesArray": [
+      ""
+    ],
+    "key": "ctrl+i",
+    "label": "github",
+    "action": "javascript",
+    "code": "function myFunction() {\n  window.open(\"https://github.com/JakeJing?tab=repositories\");\n}\nmyFunction();",
+    "activeInInputs": true,
+    "blacklist": false
+  },
+  {
     "label": "git",
     "key": "ctrl+i",
     "action": "javascript",
-    "code": "function myFunction() {\n  window.open(\"https://github.com/JakeJing\");\n}\nmyFunction();",
+    "code": "function myFunction() {\n  window.open(\"https://github.com/JakeJing?tab=repositories\");\n}\nmyFunction();",
     "activeInInputs": true,
     "blacklist": false,
     "sites": "",
@@ -126,6 +138,102 @@
     "code": "function myFunction() {\n  window.open(\"http://127.0.0.1:1111/\");\n}\nmyFunction();",
     "activeInInputs": true,
     "blacklist": false,
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "ctrl+k",
+    "label": "google keep notes",
+    "action": "javascript",
+    "code": "function myFunction() {\n  window.open(\"https://keep.google.com/#home\");\n}\nmyFunction();",
+    "activeInInputs": true,
+    "blacklist": false,
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "ctrl+m",
+    "label": "uzh mail",
+    "action": "javascript",
+    "code": "function myFunction() {\n  window.open(\"https://outlook.office.com/mail/\");\n}\nmyFunction();\n\n",
+    "activeInInputs": true,
+    "blacklist": false,
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "ctrl+b",
+    "label": "bing chatbot",
+    "action": "javascript",
+    "code": "function myFunction() {\n  window.open(\"https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx\");\n}\nmyFunction();\n",
+    "blacklist": false,
+    "activeInInputs": true,
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "ctrl+u",
+    "label": "ytube",
+    "action": "javascript",
+    "code": "function myFunction() {\n  window.open(\"https://www.youtube.com/\");\n}\nmyFunction();",
+    "activeInInputs": true,
+    "blacklist": false,
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "ctrl+y",
+    "label": "you.com",
+    "action": "javascript",
+    "code": "function myFunction() {\n  window.open(\"https://you.com/\");\n}\nmyFunction();\n",
+    "activeInInputs": true,
+    "blacklist": false,
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "ctrl+l",
+    "label": "perplexity.ai",
+    "action": "javascript",
+    "code": "function myFunction() {\n  window.open(\"https://www.perplexity.ai/\");\n}\nmyFunction();\n",
+    "activeInInputs": true,
+    "blacklist": false,
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "ctrl+p",
+    "label": "chatgpt replace phind",
+    "action": "javascript",
+    "code": "function myFunction() {\n  window.open(\"https://chat.openai.com/chat\");\n}\nmyFunction();",
+    "activeInInputs": true,
+    "blacklist": false,
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "ctrl+f",
+    "label": "forefront chat",
+    "action": "javascript",
+    "code": "function myFunction() {\n  window.open(\"https://chat.forefront.ai/\");\n}\nmyFunction();\n",
+    "blacklist": false,
+    "activeInInputs": true,
     "sites": "",
     "sitesArray": [
       ""
