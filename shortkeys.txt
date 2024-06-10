@@ -205,9 +205,9 @@
   },
   {
     "key": "ctrl+l",
-    "label": "perplexity.ai",
+    "label": "lightening.ai",
     "action": "javascript",
-    "code": "function myFunction() {\n  window.open(\"https://www.perplexity.ai/\");\n}\nmyFunction();\n",
+    "code": "function myFunction() {\n  window.open(\"https://lightning.ai/yingqijing/home");\n}\nmyFunction();\n",
     "activeInInputs": true,
     "blacklist": false,
     "sites": "",
