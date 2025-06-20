@@ -4,8 +4,19 @@
     "sitesArray": [
       ""
     ],
+    "key": "ctrl+W",
+    "label": "g",
+    "action": "javascript",
+    "code": "function myFunction() {\n  window.open(\"https://cp.kuaishou.com/article/publish/video?tabType=1\");\n}\nmyFunction();",
+    "blacklist": false
+  },
+  {
+    "sites": "",
+    "sitesArray": [
+      ""
+    ],
     "key": "ctrl+i",
-    "label": "github",
+    "label": "github repos",
     "action": "javascript",
     "code": "function myFunction() {\n  window.open(\"https://github.com/JakeJing?tab=repositories\");\n}\nmyFunction();",
     "activeInInputs": true,
@@ -16,18 +27,6 @@
     "key": "ctrl+i",
     "action": "javascript",
     "code": "function myFunction() {\n  window.open(\"https://github.com/JakeJing?tab=repositories\");\n}\nmyFunction();",
-    "activeInInputs": true,
-    "blacklist": false,
-    "sites": "",
-    "sitesArray": [
-      ""
-    ]
-  },
-  {
-    "label": "youtube",
-    "key": "ctrl+u",
-    "action": "javascript",
-    "code": "function myFunction() {\n  window.open(\"https://www.youtube.com/\");\n}\nmyFunction();",
     "activeInInputs": true,
     "blacklist": false,
     "sites": "",
@@ -63,7 +62,7 @@
     "label": "switchdrive",
     "key": "ctrl+s",
     "action": "javascript",
-    "code": "function myFunction() {\n  window.open(\"https://drive.switch.ch/index.php/apps/files/?dir=/&fileid=1908612578\");\n}\nmyFunction();",
+    "code": "function myFunction() {\n  window.open(\"https://claude.ai/new\");\n}\nmyFunction();",
     "blacklist": false,
     "activeInInputs": true,
     "sites": "",
@@ -157,9 +156,9 @@
   },
   {
     "key": "ctrl+m",
-    "label": "uzh mail",
+    "label": "mega cloud",
     "action": "javascript",
-    "code": "function myFunction() {\n  window.open(\"https://outlook.office.com/mail/\");\n}\nmyFunction();\n\n",
+    "code": "function myFunction() {\n  window.open(\"https://mega.nz/fm/42wGnDrZ\");\n}\nmyFunction();\n\n",
     "activeInInputs": true,
     "blacklist": false,
     "sites": "",
@@ -174,18 +173,6 @@
     "code": "function myFunction() {\n  window.open(\"https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx\");\n}\nmyFunction();\n",
     "blacklist": false,
     "activeInInputs": true,
-    "sites": "",
-    "sitesArray": [
-      ""
-    ]
-  },
-  {
-    "key": "ctrl+u",
-    "label": "ytube",
-    "action": "javascript",
-    "code": "function myFunction() {\n  window.open(\"https://www.youtube.com/\");\n}\nmyFunction();",
-    "activeInInputs": true,
-    "blacklist": false,
     "sites": "",
     "sitesArray": [
       ""
@@ -207,7 +194,7 @@
     "key": "ctrl+l",
     "label": "lightening.ai",
     "action": "javascript",
-    "code": "function myFunction() {\n  window.open(\"https://lightning.ai/yingqijing/home");\n}\nmyFunction();\n",
+    "code": "function myFunction() {\n  window.open(\"https://lightning.ai/yingqijing/vision-model/studios\");\n}\nmyFunction();\n",
     "activeInInputs": true,
     "blacklist": false,
     "sites": "",
@@ -228,15 +215,52 @@
     ]
   },
   {
-    "key": "ctrl+f",
-    "label": "forefront chat",
+    "key": "ctrl+u",
+    "label": "uu email",
     "action": "javascript",
-    "code": "function myFunction() {\n  window.open(\"https://chat.forefront.ai/\");\n}\nmyFunction();\n",
+    "code": "function myFunction() {\n  window.open(\"https://mail.uu.se/owa/#path=/mail/inbox\");\n}\nmyFunction();",
     "blacklist": false,
     "activeInInputs": true,
     "sites": "",
     "sitesArray": [
       ""
     ]
+  },
+  {
+    "key": "ctrl+r",
+    "label": "koofr",
+    "action": "javascript",
+    "code": "function myFunction() {\n  window.open(\"https://app.koofr.net/app/storage/207b0af3-37d1-45a1-85bf-79c378482c32\");\n}\nmyFunction();",
+    "activeInInputs": true,
+    "blacklist": false,
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "ctrl+n",
+    "label": "geneva email",
+    "action": "javascript",
+    "code": "function myFunction() {\n  window.open(\"https://outlook.office.com/mail/\");\n}\nmyFunction();",
+    "activeInInputs": true,
+    "blacklist": false,
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
+  },
+  {
+    "key": "ctrl+r",
+    "label": "mistral",
+    "action": "javascript",
+    "code": "function myFunction() {\n  window.open(\"https://chat.mistral.ai/chat\");\n}\nmyFunction();",
+    "activeInInputs": true,
+    "blacklist": false,
+    "sites": "",
+    "sitesArray": [
+      ""
+    ]
   }
 ]
+
