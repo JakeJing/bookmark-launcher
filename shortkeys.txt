@@ -156,9 +156,9 @@
   },
   {
     "key": "ctrl+m",
-    "label": "mega cloud",
+    "label": "GLM model",
     "action": "javascript",
-    "code": "function myFunction() {\n  window.open(\"https://mega.nz/fm/42wGnDrZ\");\n}\nmyFunction();\n\n",
+    "code": "function myFunction() {\n  window.open(\"https://chat.z.ai/c/f0d9b7b6-dab6-4aad-ae6e-fdfabbe2eb0c\");\n}\nmyFunction();\n\n",
     "activeInInputs": true,
     "blacklist": false,
     "sites": "",
@@ -263,4 +263,3 @@
     ]
   }
 ]
-
